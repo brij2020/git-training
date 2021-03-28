@@ -3,3 +3,8 @@ function cal(...rest) {
 		rest.reduce((acc,el) => acc + el,0 )
 	}
 } 	
+ function SayHi () {
+console.log("he buddy");
+
+}
+
