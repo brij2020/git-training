@@ -9,10 +9,5 @@ function SayHi () {
 	 console.log("hello, world ");
 	
 
- function SayHi () {
-console.log("he buddy");
-console.log("modify url ")
-
-
 }
 
