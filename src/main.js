@@ -1,4 +1,7 @@
 function SayHello () {
+	// function comments
+	
+
 	console.log("hello, world");
 }
 function xtRay(...rest) {
