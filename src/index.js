@@ -4,7 +4,8 @@ function cal(...rest) {
 	}
 } 	
  function SayHi () {
-console.log("he buddy");
+	console.log("i dont know who is buddy");
+	 console.log("he buddy");
 
 }
 
