@@ -5,5 +5,5 @@ function foo() {
     console.log(`Bar is new added in the feature branch.`)
 }
 function Bar() {
-    conso
+    console.log(`final commit 90`)
 }
